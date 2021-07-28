@@ -1,1 +1,1 @@
-# Redux study
+# React Template
